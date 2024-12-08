@@ -1,6 +1,5 @@
 # Credit-Card-Fraud-Detection-Using-Deep-Learning
 Using deep learning to detect credit card fraud.  
-# Credit Card Fraud Detection Using Deep Learning
 
 ## Overview
 This project focuses on detecting fraudulent credit card transactions using deep learning and machine learning techniques. Fraud detection is a critical problem in the financial industry, where accurately identifying fraudulent transactions can save significant costs and enhance security.
